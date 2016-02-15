@@ -1,0 +1,12 @@
+Hi all, I'v created this for a computer sales center.
+check this out and if have any errors, inclinations please leave heare..,
+janaka.attanayaka@gmail.com.
+thank you, Have fun...!
+
+database : Sales
+
+Login UserNAme: AdminJIK
+Password : 1234
+
+Copy POS folder to "C:\Program Files\"
+and add 6 wallpapers and Rename it as 'POS (1).jpg' ,'POS (2).jpg'.... 'POS (6).jpg'.
